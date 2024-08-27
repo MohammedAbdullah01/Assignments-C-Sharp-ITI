@@ -1,0 +1,14 @@
+C:\Users\Rayyan-PC\source\repos\LapDay1CSharp\LapDay6CSharp\bin\Debug\net8.0\LapDay6CSharp.exe
+C:\Users\Rayyan-PC\source\repos\LapDay1CSharp\LapDay6CSharp\bin\Debug\net8.0\LapDay6CSharp.deps.json
+C:\Users\Rayyan-PC\source\repos\LapDay1CSharp\LapDay6CSharp\bin\Debug\net8.0\LapDay6CSharp.runtimeconfig.json
+C:\Users\Rayyan-PC\source\repos\LapDay1CSharp\LapDay6CSharp\bin\Debug\net8.0\LapDay6CSharp.dll
+C:\Users\Rayyan-PC\source\repos\LapDay1CSharp\LapDay6CSharp\bin\Debug\net8.0\LapDay6CSharp.pdb
+C:\Users\Rayyan-PC\source\repos\LapDay1CSharp\LapDay6CSharp\obj\Debug\net8.0\LapDay6CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayyan-PC\source\repos\LapDay1CSharp\LapDay6CSharp\obj\Debug\net8.0\LapDay6CSharp.AssemblyInfoInputs.cache
+C:\Users\Rayyan-PC\source\repos\LapDay1CSharp\LapDay6CSharp\obj\Debug\net8.0\LapDay6CSharp.AssemblyInfo.cs
+C:\Users\Rayyan-PC\source\repos\LapDay1CSharp\LapDay6CSharp\obj\Debug\net8.0\LapDay6CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Rayyan-PC\source\repos\LapDay1CSharp\LapDay6CSharp\obj\Debug\net8.0\LapDay6CSharp.dll
+C:\Users\Rayyan-PC\source\repos\LapDay1CSharp\LapDay6CSharp\obj\Debug\net8.0\refint\LapDay6CSharp.dll
+C:\Users\Rayyan-PC\source\repos\LapDay1CSharp\LapDay6CSharp\obj\Debug\net8.0\LapDay6CSharp.pdb
+C:\Users\Rayyan-PC\source\repos\LapDay1CSharp\LapDay6CSharp\obj\Debug\net8.0\LapDay6CSharp.genruntimeconfig.cache
+C:\Users\Rayyan-PC\source\repos\LapDay1CSharp\LapDay6CSharp\obj\Debug\net8.0\ref\LapDay6CSharp.dll
